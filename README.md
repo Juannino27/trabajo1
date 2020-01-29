@@ -1,2 +1,3 @@
 # trabajo1
-tarea1
+
+Este es un repositorio de prueba
